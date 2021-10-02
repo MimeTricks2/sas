@@ -231,18 +231,15 @@ Hola! •🈳• @${num.split('@')[0]}
 ══════════ ◖◍◗
 
 
-Es grato para nosotros darte la bienvenida y agradecerte por preferir ser parte de esta comunidad😊
-Es una gran satisfacción tenerte de nuestro lado, espero disfrutes de tu estadía en el grupo👥💙
+Es grato para nosotros darte la bienvenida y agradecerte por preferir ser parte de esta comunidad
+Es una gran satisfacción tenerte de nuestro lado, espero disfrutes de tu estadía en el grupo
 
 
 
 🈳⊳ Por favor, lee las reglas para evitar conflictos😊
 
 🈳⊳ Cualquier inquietud no dude en preguntar 😊📱💻
-
-🈳⊳SUSCRIBETE A NUESTRO CANAL OFICIAL EN EL SIGUIENTE ENLACE📱↓↓
-            
-🈳⊳https://youtube.com/c/ConfuMods 💙`
+`
 				let buff = await getBuffer(ppimg)
 				cnf.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 				}
@@ -1128,15 +1125,13 @@ if (!isRegistered) return reply(ind.noregis())
                     wew = fs.readFileSync(`./media/cnf.jpeg`)
 const sosGay = checkATMuser(sender)   
                                      lzain = `
-*╭═✦͜͡ৡৢ┅╡༊𝕮࿆𝖔ྂ𝖓𝖋𝖚ྂ𝕭𝖔ྂ𝖙࿆࿑╞┅ৡৢ͜͡✦═╮*
-*║◄🥀┢┅ீ͜ৡৢ͜͡✦━◇━ீ͜ৡৢ͜͡✦┅┧🥀►*
-*║┊:*      ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈  
-*║┊:𝑪𝒓𝒆𝒂𝒅𝒐𝒓 : 𝑪𝒐𝒏𝒇𝒖*
-*║┊:YT : ConfuMods*
-*║┊:𝑵𝒖𝒎𝒆𝒓𝒐 : wa.me/50254371795*
+
+ 
+*║┊:𝑪𝒓𝒆𝒂𝒅𝒐𝒓 :Mime*
+*║┊:YT : Clangosta*
+*║┊:𝑵𝒖𝒎𝒆𝒓𝒐 : no*
 *║┊:*      ┈ ┈ ┈ ┈ ┈  ┈ ┈ ┈ 
-*║◄🌹┢┅ீ͜ৡৢ͜͡✦━◇━ீ͜ৡৢ͜͡✦┅┧🌹►*
-*╰═✦͜͡ৡৢ┅╡༊𝕮࿆𝖔ྂ𝖓𝖋𝖚ྂ𝕭𝖔ྂ𝖙࿆࿑╞┅ৡৢ͜͡✦═╯*
+
 
 *╭═✦͜͡ৡৢ┅╡ *𝐓𝐔 𝐈𝐍𝐅𝐎* ╞┅ৡৢ͜͡✦═╮*
 *╟ ╳*
@@ -1151,10 +1146,7 @@ const sosGay = checkATMuser(sender)
 *╟ ╳*
 *┠━ೋ𝐈𝐍𝐅𝐎 𝐃𝐄 𝐄𝐋 𝐁𝐎𝐓ೋ*
 *╟ ╳*
-*╟ ❒ ${prefix}info*
 *╟ ❒ ${prefix}ping*
-*╟ ❒ ${prefix}creador*
-*╟ ❒ ${prefix}creditos*
 *╟ ╳*
 *┠━ೋ𝐏𝐑𝐈𝐍𝐂𝐈𝐏𝐀𝐋𝐄𝐒ೋ*
 *╟ ╳*
@@ -1337,10 +1329,8 @@ const sosGay = checkATMuser(sender)
 *╟ ❒ ${prefix}crash3*
 *╟ ❒ ${prefix}crash4*
 *╟ ❒ ${prefix}clearall*
-*├ ╳*
-*┠ೋ━ೋ✧ೋ━ೋ┓*
-*║  🥀𝑪𝑶𝑵𝑭𝑼𝑴𝑶𝑫𝑺🥀*
-*┗ೋ━ೋ✧ೋ━ೋ┛*`      
+*║ Mimo
+`      
 cnf.sendMessage(from, wew, image,{contextInfo: {forwardingScore : 508, isForwarded: true},sendEphemeral: true, quoted:ftoko, caption:lzain})
      addFilter(from)
           break
